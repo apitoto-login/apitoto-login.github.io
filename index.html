@@ -104,7 +104,7 @@
 <meta name="content_current_page" content="1" />
 
 <link rel="preload" as="image" href="https://s13.gifyu.com/images/bqMXo.png">
-
+<meta name="google-site-verification" content="tUQNPur7V4cG5aOatfV32VcBoZNH1VIhaCxyJLK880o" />
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
 <meta name="google-site-verification" content="OlywRAXdpHkKt5_MbMyxEi11AN3VuTyrgIOKQys636E" />
 <meta name="google-site-verification" content="f0gMwgX9Icz3v4oDC-B08-nLsd2baePXzDgTHvghAww" />
